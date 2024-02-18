@@ -13,7 +13,7 @@ html, body{
 }
 .navbar{
     height: 100vh;
-    width: 1600px;
+    width: 1200px;
     
     background-color: #86A789;
     display: flex;
